@@ -1,0 +1,25 @@
+body{
+    color: aqua;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+img{
+    
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    size: 200px;
+   }
+
+.homediv {
+    background-color: black;
+    width: 600px;
+    height: 1200px;
+    margin: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

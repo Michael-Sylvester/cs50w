@@ -1,0 +1,12 @@
+--2024-02-03 16:55:23--  https://www.thesun.co.uk/wp-content/uploads/2019/08/VP-COMP-CATS-v3.jpg?w=620
+Resolving www.thesun.co.uk (www.thesun.co.uk)... 3.160.132.126, 3.160.132.93, 3.160.132.104, ...
+Connecting to www.thesun.co.uk (www.thesun.co.uk)|3.160.132.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53419 (52K) [image/jpeg]
+Saving to: ‘VP-COMP-CATS-v3.jpg?w=620’
+
+     0K .......... .......... .......... .......... .......... 95%  421K 0s
+    50K ..                                                    100% 4133G=0.1s
+
+2024-02-03 16:55:24 (440 KB/s) - ‘VP-COMP-CATS-v3.jpg?w=620’ saved [53419/53419]
+
